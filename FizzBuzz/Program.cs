@@ -9,6 +9,12 @@ namespace FizzBuzz
 	{
 		static void Main(string[] args)
 		{
+			FizzBuzz fb = new FizzBuzz();
+			foreach (String value in fb)
+			{
+				Console.WriteLine(value);
+			}
+			Console.ReadLine();
 		}
 	}
 }
