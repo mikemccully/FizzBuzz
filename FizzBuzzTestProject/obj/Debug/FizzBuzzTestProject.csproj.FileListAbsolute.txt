@@ -1,0 +1,9 @@
+C:\git\FizzBuzz\FizzBuzzTestProject\bin\Debug\FizzBuzzTestProject.dll
+C:\git\FizzBuzz\FizzBuzzTestProject\bin\Debug\FizzBuzzTestProject.pdb
+C:\git\FizzBuzz\FizzBuzzTestProject\obj\Debug\ResolveAssemblyReference.cache
+C:\git\FizzBuzz\FizzBuzzTestProject\obj\Debug\FizzBuzzTestProject.dll
+C:\git\FizzBuzz\FizzBuzzTestProject\obj\Debug\FizzBuzzTestProject.pdb
+C:\git\FizzBuzz\FizzBuzzTestProject\bin\Debug\FizzBuzz.exe
+C:\git\FizzBuzz\FizzBuzzTestProject\bin\Debug\FizzBuzz.pdb
+C:\git\FizzBuzz\FizzBuzzTestProject\bin\Debug\FizzBuzz_Accessor.exe
+C:\git\FizzBuzz\FizzBuzzTestProject\bin\Debug\FizzBuzz_Accessor.pdb

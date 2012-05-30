@@ -9,9 +9,12 @@ namespace FizzBuzz
 	{
 		static void Main(string[] args)
 		{
-			FizzBuzz fb = new FizzBuzz();
+			int start = -32;
+			int end = 5489;
+			FizzBuzz fb = new FizzBuzz( start, end );
 			foreach (String value in fb)
 			{
+				Console.BufferHeight = ( end - start ) + 2;
 				Console.WriteLine(value);
 			}
 			Console.ReadLine();
